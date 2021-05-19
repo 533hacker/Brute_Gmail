@@ -1,4 +1,5 @@
 # Brute_Gmail
+# command
 ```
 pkg update
 pkg upgrade
@@ -11,5 +12,5 @@ pip2 install mechanize
 pkg install git
 git clone https://github.com/533hacker/Brute_Gmail
 cd Brute_Gmail
-
+python2 Brute_Gmail.py
 ```
